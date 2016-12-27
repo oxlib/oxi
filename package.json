@@ -1,0 +1,11 @@
+{
+  "name": "oxi",
+  "version": "0.0.1",
+  "description": "Oxi - frontend framework for Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zorca",
+  "license": "MIT"
+}
